@@ -33,7 +33,7 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:rippleColor="@color/teal_700"
-        tools:text="Add new" />
+        tools:text="Herrow" />
 
     <TextView
         android:id="@+id/textView3"
